@@ -1,9 +1,9 @@
 <h1 align="center">Banking Dashboard</h1>
 
-<p align="center"><img src="public/bank-land.png"></p>
+<p align="center"><img src="public/bank-port.png"></p>
 
 <h3 align="center">
-The frontend implementation of a banking dashboard by UI designer, [Budiarti R](https://dribbble.com/shots/17074960-Banking-Dashboard-Design). Implemented with Vue.js, Chart.js, TailwindCSS.
+The frontend implementation of a banking dashboard by UI designer, <a href="https://dribbble.com/shots/17074960-Banking-Dashboard-Design"></a>. Implemented with Vue.js, Chart.js, TailwindCSS.
 </h3>
 
 <br>
