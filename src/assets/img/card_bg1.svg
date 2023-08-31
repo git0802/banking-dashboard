@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="315px" height="177px" viewBox="0 0 315 177" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="0.20740739" y1="0.75517887" x2="1" y2="0" id="gradient_1">
+      <stop offset="0" stop-color="#7B409C" />
+      <stop offset="1" stop-color="#C272EF" />
+    </linearGradient>
+    <linearGradient x1="0" y1="0.7826086" x2="1.2772279" y2="0.58695656" id="gradient_2">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.4509804" />
+    </linearGradient>
+    <linearGradient x1="1" y1="0" x2="0.245" y2="1" id="gradient_3">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="0.46992812" stop-color="#FFFFFF" stop-opacity="0.4509804" />
+      <stop offset="1" stop-color="#FFFFFA" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <path d="M0 0L315 0L315 177L0 177L0 0Z" id="Rectangle" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" />
+  <path d="M68 0C68 0 65 27 48 42.5C31 58 0 62 0 62L0 92C0 92 42.75 85 68 62C93.25 39 101 0 101 0L68 0Z" transform="translate(0 1)" id="New-shape-3" fill="url(#gradient_2)" fill-rule="evenodd" stroke="none" />
+  <path d="M200 33.0453C200 33.0453 191.11 12.8466 159 33.0453C126.89 53.2439 114.552 96.9397 86.5 118.065C58.4478 139.19 41.791 132.565 41.791 132.565L0 132.565C0 132.565 36.3212 124.065 71.5583 94.5647C106.795 65.0647 108.56 35.7792 140.948 14.5647C173.337 -6.64983 200 1.56467 200 1.56467L200 33.0453Z" transform="translate(115 43.435303)" id="New-shape-4" fill="url(#gradient_3)" fill-rule="evenodd" stroke="none" />
+</svg>

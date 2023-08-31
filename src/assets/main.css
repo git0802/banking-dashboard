@@ -1,0 +1,43 @@
+@import "fonts/phosphor/style.css";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  transition: all 0.25;
+  -webkit-tap-highlight-color: transparent;
+  scroll-behavior: smooth;
+}
+*:focus{
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.nav-icons {
+    margin-bottom: 10px;
+    width: 100%;
+    text-align: center;
+    padding: 15px 0;
+    cursor: pointer;
+}
+.nav-icons:hover {
+    background-color: #351b5c;
+}
+
+.showMenu {
+    display: flex!important;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.7);
+}
+@media (min-width: 1150px) {
+    .showMenu {
+        display: flex!important;
+        position: static;
+        box-shadow: none;
+    }
+}
